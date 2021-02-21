@@ -2,3 +2,7 @@ com/example/springboot/Application.java
  com.example.springboot.Application
 com/example/springboot/HelloController.java
  com.example.springboot.HelloController
+content/ServingWebContentApplication.java
+ content.ServingWebContentApplication
+content/GreetingController.java
+ content.GreetingController
