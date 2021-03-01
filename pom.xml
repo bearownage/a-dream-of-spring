@@ -65,5 +65,4 @@
 			<!-- end::frontend-maven-plugin[] -->
 		</plugins>
 	</build>
-
 </project>
